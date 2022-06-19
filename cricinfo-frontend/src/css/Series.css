@@ -1,0 +1,8 @@
+.seriesList:hover{
+    cursor:pointer;
+    background-color:rgb(179,212,255) ;
+   
+}
+.seriesList{
+    padding: 7px
+}

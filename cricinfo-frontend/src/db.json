@@ -1,0 +1,61 @@
+ {
+      "matchList": [
+        {
+          "id": "7cd4f5bb-ae2a-4bdf-80cb-58d34648cfa7",
+          "name": "Sri Lanka Women vs India Women, 1st T20I",
+          "matchType": "t20",
+          "status": "Match not started",
+          "venue": "Rangiri Dambulla International Stadium, Dambulla",
+          "date": "2022-06-23",
+          "dateTimeGMT": "2022-06-23T09:00:00",
+          "teams": [
+            "Sri Lanka Women",
+            "India Women"
+          ],
+          "teamInfo": [
+            {
+              "name": "India Women",
+              "shortname": "INDW",
+              "img": "https://cdorgapi.b-cdn.net/img/teams/32-637877061328728555.webp"
+            },
+            {
+              "name": "Sri Lanka Women",
+              "shortname": "SLW",
+              "img": "https://cdorgapi.b-cdn.net/img/teams/276-637877070027432861.webp"
+            }
+          ],
+          "fantasyEnabled": false,
+          "hasSquad": false
+        },
+        {
+          "id": "b52c9855-5225-4015-a65b-4d3641206980",
+          "name": "Sri Lanka Women vs India Women, 2nd T20I",
+          "matchType": "t20",
+          "status": "Match not started",
+          "venue": "Rangiri Dambulla International Stadium, Dambulla",
+          "date": "2022-06-25",
+          "dateTimeGMT": "2022-06-25T09:00:00",
+          "teams": [
+            "Sri Lanka Women",
+            "India Women"
+          ],
+          "teamInfo": [
+            {
+              "name": "India Women",
+              "shortname": "INDW",
+              "img": "https://cdorgapi.b-cdn.net/img/teams/32-637877061328728555.webp"
+            },
+            {
+              "name": "Sri Lanka Women",
+              "shortname": "SLW",
+              "img": "https://cdorgapi.b-cdn.net/img/teams/276-637877070027432861.webp"
+            }
+          ],
+          "fantasyEnabled": false,
+          "hasSquad": false
+        }
+      ]
+    
+   
+  }
+  
